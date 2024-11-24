@@ -1,9 +1,9 @@
-let domain = "这里填机场域名";
-let user = "这里填邮箱";
-let pass = "这里填密码";
+let domain = "ikuuu.one";
+let user = "lixinyusiwen@gmail.com";
+let pass = "ss987654321";
 let 签到结果;
-let BotToken ='';
-let ChatID =''; 
+let BotToken ='7204916226:AAGRlrfYo66AMNv0P5jdVi1wiZPc5cue-6c';
+let ChatID ='4781370'; 
 
 export default {
 	// HTTP 请求处理函数保持不变
