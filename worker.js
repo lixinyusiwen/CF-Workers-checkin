@@ -3,7 +3,7 @@ let user = "lixinyusiwen@gmail.com";
 let pass = "ss987654321";
 let 签到结果;
 let BotToken ='7204916226:AAGRlrfYo66AMNv0P5jdVi1wiZPc5cue-6c';
-let ChatID ='4781370'; 
+let ChatID ='340475844'; 
 
 export default {
 	// HTTP 请求处理函数保持不变
